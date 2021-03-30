@@ -12,5 +12,5 @@
 [Files on GitHub](https://github.com/Skchkov/LandingPages/tree/master/ZEN)
 ***
 ### Landing Page ActiveBox
-[Files on GitHub] (https://github.com/Skchkov/LandingPages/tree/master/ActiveBox)
+[Files on GitHub](https://github.com/Skchkov/LandingPages/tree/master/ActiveBox)
 
