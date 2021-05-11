@@ -13,4 +13,6 @@
 ***
 ### Landing Page ActiveBox
 [Files on GitHub](https://github.com/Skchkov/LandingPages/tree/master/ActiveBox)
-
+***
+### Landing Page Starbucks
+[Files on GitHub](https://github.com/Skchkov/LandingPages/tree/master/StarbucksLanding)
