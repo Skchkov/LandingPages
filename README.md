@@ -16,3 +16,6 @@
 ***
 ### Landing Page Starbucks
 [Files on GitHub](https://github.com/Skchkov/LandingPages/tree/master/StarbucksLanding)
+***
+### Landing Page CocaCola
+[Files on GitHub](https://github.com/Skchkov/LandingPages/tree/master/CocaCola)
