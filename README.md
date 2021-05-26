@@ -20,6 +20,6 @@
 ### Landing Page CocaCola
 [Files on GitHub](https://github.com/Skchkov/LandingPages/tree/master/CocaCola)
 ***
-### Element Star Rating Bar
+### Element Five Stars Rating Bar
 [Files on GitHub](https://github.com/Skchkov/LandingPages/tree/master/StarSkillsRatingBar)
 ***
